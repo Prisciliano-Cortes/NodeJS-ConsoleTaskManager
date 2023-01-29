@@ -1,2 +1,2 @@
-# NodeJS-GestorTareasConsola
-Aplicación de consola interactiva - Gestor de tareas
+# NodeJS-ConsoleTaskManager
+Interactive Console Application - Task Manager
